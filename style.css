@@ -1,4 +1,11 @@
- p{
+#imagem {
+    text-allign: center;
+}
+
+#link  {
+    text-allign: center;
+}
+p{
    color: red;
     font-size:  30;
     text-align: right; 
