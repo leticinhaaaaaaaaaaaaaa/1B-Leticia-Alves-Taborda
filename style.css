@@ -1,9 +1,14 @@
+.lista{
+color: red;
+font-size: 30;
+}
+
 #imagem {
-    text-allign: center;
+text-allign: center;
 }
 
 #link  {
-    text-allign: center;
+text-allign: center;
 }
 p{
    color: red;
