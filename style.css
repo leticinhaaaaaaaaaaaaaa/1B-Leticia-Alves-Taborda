@@ -4,25 +4,25 @@ font-size: 30;
 }
 
 #imagem {
-text-allign: center;
+text-align: center;
 }
 
 #link  {
-text-allign: center;
+text-align: center;
 }
-p{
+p {
    color: red;
-    font-size:  30;
+    font-size: 30;
     text-align: right; 
  }
   h1{
    color: blue;
-    text-allign: center:
-    font-size:  50;
+    text-align: center:
+    font-size: 50;
  }
  h2{
    color: green;
-   text-allign: left;
+   text-align: left;
    font-size: 40; 
  }
  
